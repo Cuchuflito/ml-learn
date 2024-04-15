@@ -4,3 +4,4 @@ seaborn
 scikit-learn
 streamlit   
 opencv-python
+plotly
